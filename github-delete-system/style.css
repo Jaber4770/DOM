@@ -1,0 +1,10 @@
+main{
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 20px;
+}
+h1{
+    background: gray;
+    padding: 10px;
+    border-radius: 10px;
+}
